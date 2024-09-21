@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     endian
+relocations:
+  - { offset: 0x87B7B, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003974, symSize: 0x240 }
+  - { offset: 0x87B9B, size: 0x8, addend: 0x0, symName: '_$s6endian6numbers6UInt32Vvp', symObjAddr: 0x18CC, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x87BB5, size: 0x8, addend: 0x0, symName: '_$s6endian14isLittleEndianSbvp', symObjAddr: 0x18D0, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offset: 0x87BC3, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003974, symSize: 0x240 }
+  - { offset: 0x87BE1, size: 0x8, addend: 0x0, symName: '_$s6endianSbSWXEfU_', symObjAddr: 0x240, symBinAddr: 0x100003BB4, symSize: 0x64 }
+  - { offset: 0x87C11, size: 0x8, addend: 0x0, symName: '_$sSa12_endMutationyyF', symObjAddr: 0x4D4, symBinAddr: 0x100003E48, symSize: 0xC }
+  - { offset: 0x87C4C, size: 0x8, addend: 0x0, symName: '_$ss15withUnsafeBytes2of_q0_xz_q0_SWq_YKXEtq_YKs5ErrorR_Ri_zRi_0_r1_lF', symObjAddr: 0x2A4, symBinAddr: 0x100003C18, symSize: 0x198 }
+  - { offset: 0x87C96, size: 0x8, addend: 0x0, symName: '_$ss27_finalizeUninitializedArrayySayxGABnlF', symObjAddr: 0x43C, symBinAddr: 0x100003DB0, symSize: 0x40 }
+  - { offset: 0x87CC0, size: 0x8, addend: 0x0, symName: '_$ss5print_9separator10terminatoryypd_S2StFfA0_', symObjAddr: 0x47C, symBinAddr: 0x100003DF0, symSize: 0x2C }
+  - { offset: 0x87CDC, size: 0x8, addend: 0x0, symName: '_$ss5print_9separator10terminatoryypd_S2StFfA1_', symObjAddr: 0x4A8, symBinAddr: 0x100003E1C, symSize: 0x2C }
+...
